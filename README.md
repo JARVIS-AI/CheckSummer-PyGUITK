@@ -48,27 +48,27 @@ A Python application built with Tkinter that calculates multiple hash checksums 
 
 ## Screenshots
 
-![Screenshot of Checksum Verifier App](1.png)
+![Screenshot of Checksum Verifier App](Assets/1.png)
 
 <hr />
 
-![Screenshot of Checksum Verifier App](2.png) 
+![Screenshot of Checksum Verifier App](Assets/2.png) 
 
 <hr />
 
-![Screenshot of Checksum Verifier App](3.png)
+![Screenshot of Checksum Verifier App](Assets/3.png)
 
 <hr />
 
-![Screenshot of Checksum Verifier App](4.png)
+![Screenshot of Checksum Verifier App](Assets/4.png)
 
 <hr />
 
-![Screenshot of Checksum Verifier App](5.png)
+![Screenshot of Checksum Verifier App](Assets/5.png)
 
 <hr />
 
-![Screenshot of Checksum Verifier App](6.png)
+![Screenshot of Checksum Verifier App](Assets/6.png)
 
 ---
 
